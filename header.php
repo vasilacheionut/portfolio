@@ -14,7 +14,7 @@
 
 <body>
     <header>
-        <div class="logo"><a href="index.php">My Portfolio</a></div>
+        <div class="logo"><a href=".">My Portfolio</a></div>
         <div class="toggle"></div>
         <div class="navigation ">
             <ul>
