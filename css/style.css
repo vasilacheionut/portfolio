@@ -76,6 +76,10 @@ section.home {
     background: var(--success-color);
 }
 
+.btn-info{
+    background: var(--secondary-color);
+}
+
 .btn:hover {
     transform: scale(0.98);
 }
