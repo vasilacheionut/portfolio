@@ -18,7 +18,7 @@
         <div class="toggle"></div>
         <div class="navigation ">
             <ul>
-                <li><a href="index.php">Home</a></li>
+                <li><a href=".">Home</a></li>
                 <li><a href="mywork.php">My Work</a></li>
                 <li><a href="contact.php">Contact Me</a></li>
             </ul>
