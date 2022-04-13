@@ -9,7 +9,13 @@
         <p>Check out some of my projects... </p>
     </div>             
     
-    <div class="portofolio">      
+    <div class="portofolio">    
+        <div class="item">
+            <img src="images/home-img.jpg" alt="">
+            <div class="action">
+                <a href="https://www.youtube.com/channel/UCACnlGS2YgrQ_7Oxd5VWrdQ/videos" target="_blank">My Video</a>                
+            </div>
+        </div>          
         <div class="item">
             <img src="images/portfolio-item1.png" alt="">
             <div class="action">
