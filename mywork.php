@@ -29,7 +29,14 @@
                 <a href="app/vipp/" target="_blank">Launch</a>
                 <a href="https://github.com/vasilacheionut/vipp" target="_blank">Github</a>                
             </div>
-        </div>        
+        </div>      
+        <div class="item">
+            <img src="images/search-numbers.png" alt="">
+            <div class="action">
+                <a href="app/lotto/" target="_blank">Launch</a>
+                <a href="https://github.com/vasilacheionut/lotto.git" target="_blank">Github</a>                
+            </div>
+        </div>                
         <div class="item">
             <img src="images/portfolio-item16.jpg" alt="">
             <div class="action">
